@@ -2,6 +2,8 @@
 
 ![readme_banner](https://user-images.githubusercontent.com/103671687/163450835-1c6afc81-294e-4ef1-b0ba-f9321ef4c706.png)
 
+Puedes unirte a nuestro servidor de [Discord haciendo clic aquí](https://discord.com)
+
 <!--
 **myperfectdev/myperfectdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
